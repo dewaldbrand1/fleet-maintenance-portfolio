@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Creative Commons Attribution-NonCommercial 4.0 International
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
@@ -13,3 +14,4 @@ Under the following terms:
 - NonCommercial — You may not use the material for commercial purposes.
 
 For commercial use, please contact: dewald@coltique.com
+>>>>>>> df69e297675dc330bfc5ed0248e8b597758a0d8d
